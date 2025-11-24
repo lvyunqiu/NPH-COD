@@ -1,7 +1,7 @@
-# SuperFusion
-This repository provides code for “**SuperFusion: Source-aware Expert Fusion of Auxiliary Visual Cues for Camouflaged Object Detection**”.
+# NPH-COD
+This repository provides code for “**No Perfect Hiding: Adaptive Fusion of Visual Cues for Robust Camouflaged Object Detection**”.
 
-SuperFusion introduces a source-aware expert fusion framework with semantic enhancement for camouflaged object detection, dynamically integrating auxiliary visual cues to achieve state-of-the-art performance.
+NPH-COD introduces a source-aware expert fusion framework with semantic enhancement for camouflaged object detection, dynamically integrating auxiliary visual cues to achieve state-of-the-art performance.
 ### Pre-trained Model
 The pre-trained checkpoint can be found at [[Baidu Drive Link, Code: deqg]](https://pan.baidu.com/s/1Aw4jeCSR-SHCGejzzFvo0w?pwd=deqg) or at [[Google Deive Link]](https://drive.google.com/file/d/1sYM6X79WT_B0gOHNWDVpt2ijRMfJfUV0/view?usp=sharing). 
 ### Results
